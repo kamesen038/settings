@@ -1,0 +1,1171 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Dec  4 15:54:59 2017
+;; Desktop file format version 208
+;; Emacs version 25.3.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23076 61763 891801 0) (desktop . "208") "masaya@Masaya-no-MacBook-Air.local" nil nil ((((font-backend mac-ct) (font . "-*-Monaco-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "WhiteSmoke") (background-color . "black") (mouse-color . "OrangeRed") (border-color . "gold") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (alpha) (scroll-bar-foreground . "WhiteSmoke") (scroll-bar-background . "grey75") (tool-bar-lines . 1) (title) (menu-bar-lines . 1) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (scroll-bar-height . 0) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "orchid") (environment) (frameset--id . "A20E-7067-AEC2-051C") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (visibility . t) (display . "Mac") (explicit-name) (tool-bar-position . top) (height . 50) (width . 201) (left . 0) (top . 23)) ((min-height . 4) (min-width . 20) (min-height-ignore . 3) (min-width-ignore . 18) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 64) (min-pixel-width . 140) (min-pixel-height-ignore . 48) (min-pixel-width-ignore . 126) (min-pixel-height-safe . 16) (min-pixel-width-safe . 28)) hc (pixel-width . 1438) (pixel-height . 784) (total-width . 205) (total-height . 49) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 714) (pixel-height . 784) (total-width . 102) (total-height . 49) (normal-height . 1.0) (normal-width . 0.4965229485396384) (buffer "01_desktop.el" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 1) (scroll-bars nil 3 t nil 0 t) (vscroll . 0) (dedicated) (point . 22) (start . 1))) (leaf (last . t) (pixel-width . 724) (pixel-height . 784) (total-width . 103) (total-height . 49) (normal-height . 1.0) (normal-width . 0.5034770514603616) (buffer "init_ito.el" (selected) (hscroll . 0) (fringes 8 8 nil) (margins 3) (scroll-bars nil 3 t nil 0 t) (vscroll . 0) (dedicated) (point . 4729) (start . 4652)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/masaya/.emacs.d/inits/01_desktop.el"
+  "01_desktop.el"
+  'emacs-lisp-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode)
+  22
+  '(89 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring (46 89 89 89 89 47 20 47 89 89 89 46 89 20 89 24))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ(’Æü’ËÜ’¸ì)/LMOV.tex"
+  "LMOV.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/.emacs.d/inits/02_key_setting.el"
+  "02_key_setting.el"
+  'emacs-lisp-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode)
+  1274
+  '(1277 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1252 1251 1320 1251 1320))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Desktop/init_ito.el"
+  "init_ito.el"
+  'emacs-lisp-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode)
+  4729
+  '(2393 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2393 1 561 2036 2392 2343 2393))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’½¤’ÏÀ/QFT.tex"
+  "QFT.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  24434
+  '(24414 t)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (24137))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/.emacs.d/inits/00_settings.el"
+  "00_settings.el"
+  'emacs-lisp-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode)
+  1401
+  '(1558 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1448 2187 2261 2613 2506 2573 2187 1448 1558 958 829 1545))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/LMOV.tex"
+  "LMOV.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  563
+  '(481 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (481 481 481 481 481 343 208 180 208 481 481 109 481 481 342 563))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Íú’Îò’½ñ/StatementOfResearch.tex"
+  "StatementOfResearch.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  5702
+  '(5504 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (5354 5428 5188 5686 5484 5428 5428 5354 5317 5304 5224 5188 5634 5977 4944 5702))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/CS_theory.tex"
+  "CS_theory.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1056
+  '(975 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (14573 9989 14358 9511 7699 7720 7720 7665 7665 7426 7419 7368 7360 11718 11710 2987))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/PhD_thesis.tex"
+  "PhD_thesis.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  2995
+  '(2801 t)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (2801 2801 2801 2801 2801 2801 2801 2801 2801 2801 2801 2801 486 530 3210 213))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¥Î’¡¼’¥È/refined integrality/refined-integrality.tex"
+  "refined-integrality.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  125
+  '(496 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (96449 41791 102748 102635 102359 102022 24482 16229 15882 15798 111402 9422 9422 937 107261 64449))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¥Î’¡¼’¥È/IK (texshop)/end.tex"
+  "end.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  35
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¥Î’¡¼’¥È/IK (texshop)/note.tex"
+  "note.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  33785
+  '(33742 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (33741))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/introduction.tex"
+  "introduction.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  4887
+  '(5327 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (fill-column . 72))
+  '((mark-ring (4889 4568 1235 2856 2419 8430 8430 8430 5206 1273 6834 7634 285 27 33 4887))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Îý’½¬/refined-integrality/refined-integrality.tex"
+  "refined-integrality.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  13742
+  '(13715 t)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (12179 538 12283 12179))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/knot-quiver/marino-vafa.tex"
+  "marino-vafa.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1420
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Íú’Îò’½ñ/cover_letter.tex"
+  "cover_letter.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  3279
+  '(3145 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (4787 4319 4250 4291 4290 4193 4131 4156 4106 3938 4656 3493 3492 4106 4072 3088))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Íú’Îò’½ñ/’Æì’ÅÄ’¤µ’¤óCV&cover letter/cover_letter_DESY.tex"
+  "cover_letter_DESY.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  5829
+  '(3481 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (1182 3474 3481))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Íú’Îò’½ñ/cover_letter_2.tex"
+  "cover_letter_2.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  4973
+  '(3416 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (3841 1799 1907 2878 110 260 1018 1018 110 1752 2842 1907 1799 3819 3997 4973))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Íú’Îò’½ñ/CV_Masaya_Kameyama.tex"
+  "CV_Masaya_Kameyama.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1994
+  '(2062 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . mac-roman-unix) (fill-column . 72))
+  '((mark-ring (976 82 976 2062))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¥Î’¡¼’¥È/refined integrality/Nawata.tex"
+  "Nawata.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  2729
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¥Î’¡¼’¥È/refined integrality/main.tex"
+  "main.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1329
+  '(10836 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (10848 10836 10836 10836 10836 10836 10836 10836 10836 10836 10836 10836 10836 10836 10836 3975))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¤½’¤Î’Â¾/cover_example.tex"
+  "cover_example.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1518
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (fill-column . 72))
+  '((mark-ring (1 1 1 1 1 1 1 1 1 1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¤½’¤Î’Â¾/newflm.cls"
+  "newflm.cls"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  107983
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (fill-column . 72))
+  '((mark-ring (1 1 1 107983))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/knot-quiver/main.tex"
+  "main.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1956
+  '(603 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/.emacs.d/inits/01_auto-complete.el"
+  "01_auto-complete.el"
+  'emacs-lisp-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1 1 1 1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Íú’Îò’½ñ/’Æì’ÅÄ’¤µ’¤óCV&cover letter/CV-Satoshi-Nawata.tex"
+  "CV-Satoshi-Nawata.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . mac-roman-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Íú’Îò’½ñ/rireki.tex"
+  "rireki.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1635
+  '(3259 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (3281 3281 3281 3276 3281 3307 3322 2948 2866 2866 2677 2678 2654 1459 2677 3324))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¥Î’¡¼’¥È/Marino-Vafa formula/main.tex"
+  "main.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  9457
+  '(10813 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (10886 10887 10784 10785 10887 10887 10886 10717 10717 1 10784 509 10886 10785 10887 10887))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¤½’¤Î’Â¾/cover_letter_1.tex"
+  "cover_letter_1.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1703
+  '(1739 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (2766 2766 2769 645 2769 2769 2611 2766 2767 2595 1741))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’³Ø’¿¶/’³Ø’¿¶pd’¤½’¤Î4/pd_05-07_purpose.tex"
+  "pd_05-07_purpose.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  9833
+  '(17022 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (17023))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’³Ø’¿¶/’³Ø’¿¶pd’¤½’¤Î4/pd_03-04_preparation_etc.tex"
+  "pd_03-04_preparation_etc.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1089
+  '(370 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (369 455 373 403))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’³Ø’¿¶/’³Ø’¿¶pd’¤½’¤Î4/pd.tex"
+  "pd.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  797
+  '(36 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (2002 1989 3763 2002 1758 1823 3763 1994 1989 1966 2002 83 797))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/introduction_nawata.tex"
+  "introduction_nawata.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  673
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/my_command.sty"
+  "my_command.sty"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  603
+  '(590 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (667 343 489 635 667))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/deformed.tex"
+  "deformed.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  9026
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (fill-column . 72))
+  '((mark-ring (1 1 9026))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/appendix.tex"
+  "appendix.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1500
+  '(2800 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (2572 55 1 1 1 1 74 1238 53 76 744 75 76 740 740 1500))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/thesis.sty"
+  "thesis.sty"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  7714
+  '(7724 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (7724 5863 3961 9671 7734 10981 10964 10657 7658 7658 5801 5863 7724 7732 7724))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/jheppub3.sty"
+  "jheppub3.sty"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  7429
+  '(7805 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (fill-column . 72))
+  '((mark-ring (7713 7713 7561 7713 7175 7058 7151 5828 5979 5979 5988 5988 6311 5979 5891 932))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/jheppub.sty"
+  "jheppub.sty"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  6370
+  '(6370 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Îý’½¬/refined-integrality/jheppub.sty"
+  "jheppub.sty"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/refined-integrality/arXiv-v1/refined-integrality.bbl"
+  "refined-integrality.bbl"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  574
+  '(574 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode)
+  641
+  '(640 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (640 640 640 640 641))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/nawata.sty"
+  "nawata.sty"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  8755
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (1 1 1 8755))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’½¤’ÏÀ/begin.tex"
+  "begin.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1637
+  '(2293 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (2229 2259 2229))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/refined-integrality/refined-integrality.tex"
+  "refined-integrality.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  9391
+  '(9422 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (108060 85941 65762 64254 63012 430 111333 111524 111482 111524 111482 159605 159619 133052 112080 132972))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’½¤’ÏÀ/’½¤’ÏÀ.tex"
+  "’½¤’ÏÀ.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  349
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’½¤’ÏÀ/Chern-Simons.tex"
+  "Chern-Simons.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  397
+  '(408 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (396 14366 14343 14354 396 408))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/discussion.tex"
+  "discussion.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  3333
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (fill-column . 72))
+  '((mark-ring (1 1))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/refined_large_n.tex"
+  "refined_large_n.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  30111
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (fill-column . 72))
+  '((mark-ring (1 1))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/resolved.tex"
+  "resolved.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  30789
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (fill-column . 72))
+  '((mark-ring (1))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Íú’Îò’½ñ/rireki.sty"
+  "rireki.sty"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  15022
+  '(15952 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (15622 15519 15968 15986 15986 15986 15968 15966 15968 15986 15986 15968 15620 15883))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Îý’½¬/tachikawa/test.tex"
+  "test.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  97
+  '(577 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Google ’¥Èœò¾ù’¥é’¥¤’¥Õœò¾ù/Documents/suutikeisan/ex10-1.f"
+  "ex10-1.f"
+  'fortran-mode
+  '(linum-mode auto-complete-mode helm-mode)
+  25
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Íú’Îò’½ñ/rireki2.sty"
+  "rireki2.sty"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  14245
+  '(15193 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (14288 14235 14187 15168 14105))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¥Î’¡¼’¥È/genus expansion/main.tex"
+  "main.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  2261
+  '(2324 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (2058 2058 2058 2058 2058 2058 2058 2058 2058 2058 2058 2058 2058 2058 2058 2058))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¥Î’¡¼’¥È/genus expansion/genus.tex"
+  "genus.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  10530
+  '(10598 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (44 10488 10461 10438 10438 10414 10384 10382 10356 9493 10287 10239 10239 10193 10139 10139))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¥Î’¡¼’¥È/refined integrality/reformulated-f.tex"
+  "reformulated-f.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  3541
+  '(2150 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (3554 2134 2164 2136 2047 395 2034 1957 1912 1909 1909 1884 1797 1537 1501 1446))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/ref.bib"
+  "ref.bib"
+  'bibtex-mode
+  '(linum-mode helm-mode)
+  61
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/jheppub2.sty"
+  "jheppub2.sty"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  7589
+  '(7599 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (1433 7471 7471 7476 7600 7412 7566 7471 7476 7834 7655 7589 7471 7072 11175 6387))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¥Î’¡¼’¥È/Marino-Vafa formula/CS.bib"
+  "CS.bib"
+  'bibtex-mode
+  '(linum-mode helm-mode)
+  63534
+  '(6105 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (542 63866 64098 63908))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/refined-integrality/arXiv-v2/refined-integrality.tex"
+  "refined-integrality.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  163073
+  '(163073 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Îý’½¬/’²£’½ñ’¤­’¤Î’¥³’¥Òœò¾ú’¡¼.tex"
+  "’²£’½ñ’¤­’¤Î’¥³’¥Òœò¾ú’¡¼.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  33
+  '(576 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (1 1 1 75 317 364 272 394 550))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Íú’Îò’½ñ/cv.tex"
+  "cv.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1656
+  '(4813 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (4704 4764 4763 4495 7584 7582 6926 6840 9706 9706 9706 9706 9093 7463 4136 7535))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Google ’¥Èœò¾ù’¥é’¥¤’¥Õœò¾ù/Documents/c++/test.cpp"
+  "test.cpp"
+  'c++-mode
+  '(abbrev-mode linum-mode auto-complete-mode helm-mode flyspell-mode)
+  158
+  '(392 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (463 439 439 131 413 158 410 433 116 115 432 392 213 321 433 433))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Google ’¥Èœò¾ù’¥é’¥¤’¥Õœò¾ù/Documents/c++/hacker_sized_array.cpp"
+  "hacker_sized_array.cpp"
+  'c++-mode
+  '(abbrev-mode linum-mode auto-complete-mode helm-mode flyspell-mode)
+  794
+  '(742 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (641 676 677 968 854 480 366 254 275 1 1 118 118 118 118 775))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Google ’¥Èœò¾ù’¥é’¥¤’¥Õœò¾ù/Documents/c++/vector.cpp"
+  "vector.cpp"
+  'c++-mode
+  '(abbrev-mode linum-mode auto-complete-mode helm-mode flyspell-mode)
+  137
+  '(241 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (137))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Google ’¥Èœò¾ù’¥é’¥¤’¥Õœò¾ù/Documents/c++/hacker7.cpp"
+  "hacker7.cpp"
+  'c++-mode
+  '(abbrev-mode linum-mode auto-complete-mode helm-mode flyspell-mode)
+  361
+  '(19 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (378 20 361 361 1 1 1 1 1 1 1 1 1 1 1 361))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/refined-integrality/JKTR/refined-integrality.tex"
+  "refined-integrality.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  164454
+  '(137056 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (107531))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Google ’¥Èœò¾ù’¥é’¥¤’¥Õœò¾ù/Documents/c++/hacker5.cpp"
+  "hacker5.cpp"
+  'c++-mode
+  '(abbrev-mode linum-mode auto-complete-mode helm-mode flyspell-mode)
+  74
+  '(650 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (622 595 583 141 60 1 1 100 99 136 1 141 649 140 160 640))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Google ’¥Èœò¾ù’¥é’¥¤’¥Õœò¾ù/Documents/c++/hacker4.cpp"
+  "hacker4.cpp"
+  'c++-mode
+  '(abbrev-mode linum-mode auto-complete-mode helm-mode flyspell-mode)
+  490
+  '(936 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (909 893 851 808 761 716 670 624 577 573 550 511 494 1 1 1))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Google ’¥Èœò¾ù’¥é’¥¤’¥Õœò¾ù/Documents/c++/hacker3.cpp"
+  "hacker3.cpp"
+  'c++-mode
+  '(abbrev-mode linum-mode auto-complete-mode helm-mode flyspell-mode)
+  241
+  '(292 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (291 291 249 198 160 240 201 200 133 133 1 1 1 294 294 133))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Google ’¥Èœò¾ù’¥é’¥¤’¥Õœò¾ù/Documents/c++/lec3.cpp"
+  "lec3.cpp"
+  'c++-mode
+  '(abbrev-mode linum-mode auto-complete-mode helm-mode flyspell-mode)
+  384
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Google ’¥Èœò¾ù’¥é’¥¤’¥Õœò¾ù/Documents/c++/hacker2.cpp"
+  "hacker2.cpp"
+  'c++-mode
+  '(abbrev-mode linum-mode auto-complete-mode helm-mode flyspell-mode)
+  319
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1 1))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Google ’¥Èœò¾ù’¥é’¥¤’¥Õœò¾ù/Documents/c++/hello2.cpp"
+  "hello2.cpp"
+  'c++-mode
+  '(abbrev-mode linum-mode auto-complete-mode helm-mode flyspell-mode)
+  256
+  '(250 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (139 434 85 85 1 1 1 1 14 434 128))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Google ’¥Èœò¾ù’¥é’¥¤’¥Õœò¾ù/Documents/c++/hacker1.cpp"
+  "hacker1.cpp"
+  'c++-mode
+  '(abbrev-mode linum-mode auto-complete-mode helm-mode flyspell-mode)
+  579
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1 1 1 1 118 579))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Google ’¥Èœò¾ù’¥é’¥¤’¥Õœò¾ù/Documents/c++/hello.cpp"
+  "hello.cpp"
+  'c++-mode
+  '(abbrev-mode linum-mode auto-complete-mode helm-mode flyspell-mode)
+  163
+  '(125 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (92 65 1 1 1 65))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¥Î’¡¼’¥È/Marino-Vafa formula/marino-vafa.tex"
+  "marino-vafa.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  4441
+  '(6865 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (7095 137 4289 4338 6652 6514 6375 6624 6486 6348 6211 7042 7016 6990 6965 6934))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Îý’½¬/’Îý’½¬.tex"
+  "’Îý’½¬.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  71
+  '(71 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (16 41 16 49 71))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Îý’½¬/test.tex"
+  "test.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  64
+  '(40 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (16 50 51 51 79 16 80 62))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¤½’¤Î’Â¾/cover_letter_2.tex"
+  "cover_letter_2.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  3571
+  '(209 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (3097))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¤½’¤Î’Â¾/CV.tex"
+  "CV.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  2959
+  '(1029 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¤½’¤Î’Â¾/’Íú’Îò’½ñ.tex"
+  "’Íú’Îò’½ñ.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1720
+  '(1720 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¤½’¤Î’Â¾/IKV-Nekrasov.tex"
+  "IKV-Nekrasov.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  10363
+  '(400 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (400 590 187))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¤½’¤Î’Â¾/’¸¦’µæ’Èñ’»È’ÍÑ’·×’²è’³µ’»».tex"
+  "’¸¦’µæ’Èñ’»È’ÍÑ’·×’²è’³µ’»».tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  705
+  '(705 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¤½’¤Î’Â¾/’³Ø’À¸’¥Õœò¾ú’¥í’¥·œò¾ù’¥§’¥¯’¥È.tex"
+  "’³Ø’À¸’¥Õœò¾ú’¥í’¥·œò¾ù’¥§’¥¯’¥È.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  34
+  '(34 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (775 550 34 710 499 34))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¤½’¤Î’Â¾/’¸¦’µæ’³µ’Í×’½ñ.tex"
+  "’¸¦’µæ’³µ’Í×’½ñ.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  2139
+  '(2129 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (2154 2140 1342 1944 1292 1944 1944 1944 1944 1944 1342 2206 2761 3793 2140 2137))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/CS.bib"
+  "CS.bib"
+  'bibtex-mode
+  '(linum-mode helm-mode)
+  762
+  '(762 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ/BPS-table.tex"
+  "BPS-table.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  2554
+  '(2545 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (fill-column . 72))
+  '((mark-ring (1385 1281 1386 2548))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Îý’½¬/emacs-yatex/main.tex"
+  "main.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  446
+  '(445 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (386 479 478 474 460 437 371 459 365 459 477 385 276 71 70 447))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Îý’½¬/emacs-yatex/biblio.bib"
+  "biblio.bib"
+  'bibtex-mode
+  '(linum-mode helm-mode)
+  927
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Google ’¥Èœò¾ù’¥é’¥¤’¥Õœò¾ù/Documents/c’¸À’¸ì/janken.c"
+  "janken.c"
+  'c-mode
+  '(abbrev-mode linum-mode auto-complete-mode helm-mode flyspell-mode)
+  36
+  '(129 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (611 20 127 624 403 402 662 578 394 393 479 576 375 460 661 481))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Google ’¥Èœò¾ù’¥é’¥¤’¥Õœò¾ù/Documents/c’¸À’¸ì/rand.c"
+  "rand.c"
+  'c-mode
+  '(abbrev-mode linum-mode auto-complete-mode helm-mode flyspell-mode)
+  100
+  '(122 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (122 1 1 1 122 122 101))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’¥Î’¡¼’¥È/IK (texshop)/begin.tex"
+  "begin.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  2455
+  '(901 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring (900 899))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Google ’¥Èœò¾ù’¥é’¥¤’¥Õœò¾ù/Documents/c’¸À’¸ì/hello.c"
+  "hello.c"
+  'c-mode
+  '(abbrev-mode linum-mode auto-complete-mode helm-mode flyspell-mode)
+  72
+  '(74 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1))))
+
+(desktop-create-buffer 208
+  "/Users/masaya/Dropbox/tex/’Çî’ÏÀ(’Æü’ËÜ’¸ì)/PhD_thesis.tex"
+  "PhD_thesis.tex"
+  'yatex-mode
+  '(linum-mode auto-complete-mode helm-mode flyspell-mode reftex-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (fill-column . 72))
+  '((mark-ring nil)))
+
