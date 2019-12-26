@@ -1,7 +1,8 @@
-alias julia='/path/to/install/folder/bin/julia'
-alias emacs='/Applications/Emacs.app/Contents/MacOS/Emacs'
-export GNUTERM=x11
+#alias julia='/path/to/install/folder/bin/julia'
+#alias emacs='/Applications/Emacs.app/Contents/MacOS/Emacs'
+#export GNUTERM=x11
 
+fpath=(path/to/zsh-completions/src $fpath)
 
 # peco
 function peco-history-selection() {
@@ -36,3 +37,9 @@ setopt EXTENDED_HISTORY
 
 # 補完時にヒストリを自動的に展開         
 setopt hist_expand
+
+#postgres
+export PGDATA=/usr/local/var/postgres
+
+# mymodule
+export PYTHONPATH="/Users/masaya/python/mymodule$PYTHONPATH"
