@@ -2,6 +2,8 @@
 #alias emacs='/Applications/Emacs.app/Contents/MacOS/Emacs'
 #export GNUTERM=x11
 
+export PATH=$PATH:/usr/local/bin
+
 fpath=(path/to/zsh-completions/src $fpath)
 
 # peco
